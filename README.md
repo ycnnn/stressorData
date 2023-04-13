@@ -1,2 +1,2 @@
 # stressorData
-The public repository for stressor paper data @ vdx group
+The public repository for stressor paper data @ vdZ group
