@@ -2,6 +2,6 @@
 Maintained by:
 - Yue Zhnag
 - Kelly Hwang
-- Mohamaad Abir Hossain
+- Mohammad Abir Hossain
 
 <br>Under supervision of Prof Arend van der Zande.
