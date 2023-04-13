@@ -1,2 +1,2 @@
 # stressorData
-The public repository for stressor paper data @ vdZ group
+The public repository for "Designable and Patternable Process-Induced Strain Engineering in Two Dimensional Materials" @ vdZ group
