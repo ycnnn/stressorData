@@ -3,4 +3,5 @@ Maintained by:
 - Yue Zhnag
 - Kelly Hwang
 - Mohamaad Abir Hossain
-Under suoervision of Prof Arend van der Zande.
+
+<br>Under supervision of Prof Arend van der Zande.
