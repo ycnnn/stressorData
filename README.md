@@ -1,6 +1,6 @@
 # The Raw Data Repository for "Designable and Patternable Process-Induced Strain Engineering in Two Dimensional Materials" @ vdZ group
 Maintained by:
-- Yue Zhnag
+- Yue Zhang
 - Kelly Hwang
 - Mohammad Abir Hossain
 
